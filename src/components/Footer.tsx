@@ -26,7 +26,7 @@ function Footer() {
             <div className="space-y-2 text-sm text-slate-400">
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>research@repoguard.example</span>
+                <span>shreerag.2025@vitstudent.ac.in</span>
               </div>
               <div className="flex items-center gap-2">
                 <BookOpen className="w-4 h-4" />
